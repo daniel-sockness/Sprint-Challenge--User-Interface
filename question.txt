@@ -1,0 +1,9 @@
+1. Semantic HTML gives your markup meaning.
+
+2. display: block takes the entire width of the page for the element where display: inline only uses what is needed.
+
+3. Content, Padding, Margin, Border
+
+4. Align-items: center will align your content to the center of your cross axis.
+
+5. Git is valuable to a team of developers because they can all work on a project without conflict
